@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Problema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\Problema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Genetico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\Genetico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\imprimir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\imprimir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\resol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\resol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\problema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\problema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\resol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\resol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\imprimir.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\imprimir.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Genetico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\Genetico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Binario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C374888D-5AF0-4828-BCE3-292D07C79131}|Trab01\\Trab01.vcxproj|solutionrelative:Trab01\\Binario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genetico.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Genetico.cpp",
+              "RelativeDocumentMoniker": "Trab01\\Genetico.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Genetico.cpp",
+              "RelativeToolTip": "Trab01\\Genetico.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T23:07:53.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resol.h",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\resol.h",
+              "RelativeDocumentMoniker": "Trab01\\resol.h",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\resol.h",
+              "RelativeToolTip": "Trab01\\resol.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-22T22:40:03.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "resol.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\resol.cpp",
+              "RelativeDocumentMoniker": "Trab01\\resol.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\resol.cpp",
+              "RelativeToolTip": "Trab01\\resol.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-22T22:39:09.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "problema.h",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\problema.h",
+              "RelativeDocumentMoniker": "Trab01\\problema.h",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\problema.h",
+              "RelativeToolTip": "Trab01\\problema.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-22T22:20:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "imprimir.h",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\imprimir.h",
+              "RelativeDocumentMoniker": "Trab01\\imprimir.h",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\imprimir.h",
+              "RelativeToolTip": "Trab01\\imprimir.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-21T01:22:36.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "imprimir.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\imprimir.cpp",
+              "RelativeDocumentMoniker": "Trab01\\imprimir.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\imprimir.cpp",
+              "RelativeToolTip": "Trab01\\imprimir.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-21T01:19:00.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genetico.h",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Genetico.h",
+              "RelativeDocumentMoniker": "Trab01\\Genetico.h",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Genetico.h",
+              "RelativeToolTip": "Trab01\\Genetico.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-20T23:07:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Binario.h",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Binario.h",
+              "RelativeDocumentMoniker": "Trab01\\Binario.h",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Binario.h",
+              "RelativeToolTip": "Trab01\\Binario.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-20T23:04:37.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problema.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Problema.cpp",
+              "RelativeDocumentMoniker": "Trab01\\Problema.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Problema.cpp",
+              "RelativeToolTip": "Trab01\\Problema.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T21:42:24.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "da00e926-801c-4160-b674-6628024c7e57",
+        "Display": 1,
+        "X": 101,
+        "Y": 194,
+        "Width": 1199,
+        "Height": 617,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Binario.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Binario.cpp",
+              "RelativeDocumentMoniker": "Trab01\\Binario.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Trabalhos\\Trab01\\Trab01\\Binario.cpp",
+              "RelativeToolTip": "Trab01\\Binario.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T23:04:04.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
