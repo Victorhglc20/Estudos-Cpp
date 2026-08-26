@@ -1,0 +1,3 @@
+﻿  exe01.cpp
+C:\Users\victo\estudo_c++\aulajudson\progc++\Laboratorios\lab13\lab13\exe01.cpp(9,6): error C3646: 'movcor': especificador de substituição desconhecido
+C:\Users\victo\estudo_c++\aulajudson\progc++\Laboratorios\lab13\lab13\exe01.cpp(9,2): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int

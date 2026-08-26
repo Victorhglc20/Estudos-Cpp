@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0019BF3B-524C-4BEC-87BE-D6BF76173AD4}|Lab09\\Lab09.vcxproj|solutionrelative:Lab09\\exe01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exe08.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe08.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe08.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe08.cpp",
+              "RelativeToolTip": "Lab09\\exe08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T21:05:53.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exe07.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe07.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe07.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe07.cpp",
+              "RelativeToolTip": "Lab09\\exe07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T21:00:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exe06.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe06.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe06.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe06.cpp",
+              "RelativeToolTip": "Lab09\\exe06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T20:48:40.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exe05.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe05.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe05.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe05.cpp",
+              "RelativeToolTip": "Lab09\\exe05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T20:40:50.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exe04.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe04.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe04.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe04.cpp",
+              "RelativeToolTip": "Lab09\\exe04.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T20:22:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "exe03.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe03.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe03.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe03.cpp",
+              "RelativeToolTip": "Lab09\\exe03.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T19:54:34.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "exe02.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe02.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe02.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe02.cpp",
+              "RelativeToolTip": "Lab09\\exe02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T19:40:52.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "exe01.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe01.cpp",
+              "RelativeDocumentMoniker": "Lab09\\exe01.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab09\\Lab09\\exe01.cpp",
+              "RelativeToolTip": "Lab09\\exe01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T19:25:37.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

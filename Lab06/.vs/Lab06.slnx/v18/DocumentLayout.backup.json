@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|solutionrelative:Lab06\\exe08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|solutionrelative:Lab06\\exe06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|solutionrelative:Lab06\\exe07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|solutionrelative:Lab06\\exe05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8634D45-06DD-4081-9D37-4165BA10EBF1}|Lab06\\Lab06.vcxproj|solutionrelative:Lab06\\exe04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exe08.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe08.cpp",
+              "RelativeDocumentMoniker": "Lab06\\exe08.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe08.cpp",
+              "RelativeToolTip": "Lab06\\exe08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T19:27:07.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exe07.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe07.cpp",
+              "RelativeDocumentMoniker": "Lab06\\exe07.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe07.cpp",
+              "RelativeToolTip": "Lab06\\exe07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T19:08:28.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exe06.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe06.cpp",
+              "RelativeDocumentMoniker": "Lab06\\exe06.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe06.cpp",
+              "RelativeToolTip": "Lab06\\exe06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T18:56:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exe05.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe05.cpp",
+              "RelativeDocumentMoniker": "Lab06\\exe05.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe05.cpp",
+              "RelativeToolTip": "Lab06\\exe05.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T18:41:59.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exe04.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe04.cpp",
+              "RelativeDocumentMoniker": "Lab06\\exe04.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Laboratorios\\Lab06\\Lab06\\exe04.cpp",
+              "RelativeToolTip": "Lab06\\exe04.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T17:43:13.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

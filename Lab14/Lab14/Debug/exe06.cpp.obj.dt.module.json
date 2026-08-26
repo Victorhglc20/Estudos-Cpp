@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\exe06.obj",
+            "outputs": [
+                "Debug\\exe06.cpp.obj.dt.module.json",
+                "Debug\\exe06.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
