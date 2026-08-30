@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB48587-C9E7-4C4D-AD4A-B4FABE2E212D}|DesafioGpt01\\DesafioGpt01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\desafio02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB48587-C9E7-4C4D-AD4A-B4FABE2E212D}|DesafioGpt01\\DesafioGpt01.vcxproj|solutionrelative:DesafioGpt01\\desafio02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB48587-C9E7-4C4D-AD4A-B4FABE2E212D}|DesafioGpt01\\DesafioGpt01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\desafio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB48587-C9E7-4C4D-AD4A-B4FABE2E212D}|DesafioGpt01\\DesafioGpt01.vcxproj|solutionrelative:DesafioGpt01\\desafio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB48587-C9E7-4C4D-AD4A-B4FABE2E212D}|DesafioGpt01\\DesafioGpt01.vcxproj|C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\refatorando.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB48587-C9E7-4C4D-AD4A-B4FABE2E212D}|DesafioGpt01\\DesafioGpt01.vcxproj|solutionrelative:DesafioGpt01\\refatorando.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "desafio02.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\desafio02.cpp",
+              "RelativeDocumentMoniker": "DesafioGpt01\\desafio02.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\desafio02.cpp",
+              "RelativeToolTip": "DesafioGpt01\\desafio02.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-30T15:27:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "refatorando.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\refatorando.cpp",
+              "RelativeDocumentMoniker": "DesafioGpt01\\refatorando.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\refatorando.cpp",
+              "RelativeToolTip": "DesafioGpt01\\refatorando.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-30T14:49:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "desafio.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\desafio.cpp",
+              "RelativeDocumentMoniker": "DesafioGpt01\\desafio.cpp",
+              "ToolTip": "C:\\Users\\victo\\estudo_c\u002B\u002B\\aulajudson\\progc\u002B\u002B\\Pessoal\\Desafios\\DesafioGpt01\\DesafioGpt01\\desafio.cpp",
+              "RelativeToolTip": "DesafioGpt01\\desafio.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-30T14:21:01.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

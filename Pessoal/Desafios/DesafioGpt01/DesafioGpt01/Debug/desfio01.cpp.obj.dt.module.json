@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\desfio01.obj",
+            "outputs": [
+                "Debug\\desfio01.cpp.obj.dt.module.json",
+                "Debug\\desfio01.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
