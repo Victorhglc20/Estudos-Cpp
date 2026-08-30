@@ -14,7 +14,7 @@ int main()
     
     int posimaior = 0;
     int posimaior2 = 0;
-    int rep = 0;
+   
     int posimenor = 0;
     int posimenor2 = 0;
     int contmaior = 0;
@@ -24,10 +24,7 @@ int main()
 
     for (int i = 0; i < 10; i++)
     {
-        int tempme = 0;
-        int posi1 = 0;
-        int tempma = 0;
-        int posi2 = 0;
+       
         
 
         if (maior < num[i])
