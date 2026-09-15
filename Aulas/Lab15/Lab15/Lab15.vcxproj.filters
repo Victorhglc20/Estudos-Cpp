@@ -16,6 +16,9 @@
     <Filter Include="Arquivos de Origem\Aula">
       <UniqueIdentifier>{1d07a7d1-32de-4f74-bcee-5e139bcc5d39}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Arquivos de Origem\Exercicios">
+      <UniqueIdentifier>{dd70aff4-48ac-4221-bc53-1b42e2ed69ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="aula.cpp">
@@ -28,6 +31,15 @@
       <Filter>Arquivos de Origem\Aula</Filter>
     </ClCompile>
     <ClCompile Include="aula04.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
+    <ClCompile Include="exe01.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe02.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="BomExemplo.cpp">
       <Filter>Arquivos de Origem\Aula</Filter>
     </ClCompile>
   </ItemGroup>

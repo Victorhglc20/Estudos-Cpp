@@ -32,7 +32,7 @@
 //	cout << vet[1];		//20
 //	cout << *(vet + 1);	//20
 //
-//	//INVÁLIDO: vet = vet + 1;
+//	//INVÁLIDO: vet = vet + 1; // são apenas endereços 
 //
 //	//O operador new também permite criar registros dinâmico
 //	//O operador membro (.) não pose ser usado com ponteiros 

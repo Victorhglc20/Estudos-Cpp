@@ -143,6 +143,9 @@
     <ClCompile Include="aula02.cpp" />
     <ClCompile Include="aula03.cpp" />
     <ClCompile Include="aula04.cpp" />
+    <ClCompile Include="exe01.cpp" />
+    <ClCompile Include="exe02.cpp" />
+    <ClCompile Include="BomExemplo.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
