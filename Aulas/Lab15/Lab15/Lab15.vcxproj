@@ -146,6 +146,15 @@
     <ClCompile Include="exe01.cpp" />
     <ClCompile Include="exe02.cpp" />
     <ClCompile Include="BomExemplo.cpp" />
+    <ClCompile Include="exe03.cpp" />
+    <ClCompile Include="exe04.cpp" />
+    <ClCompile Include="exe05.cpp" />
+    <ClCompile Include="exe06.cpp" />
+    <ClCompile Include="exe07.cpp" />
+    <ClCompile Include="exe08.cpp" />
+    <ClCompile Include="exe09.cpp" />
+    <ClCompile Include="exe10.cpp" />
+    <ClCompile Include="teoricas.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

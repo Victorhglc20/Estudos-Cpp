@@ -13,5 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Arquivos de Origem\Aula">
+      <UniqueIdentifier>{dd79990b-56ca-4c27-a6fa-daa010090ee4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="attAssis.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
+    <ClCompile Include="aula16.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
+    <ClCompile Include="aula16_2.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
+    <ClCompile Include="aula16_03.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
+    <ClCompile Include="aula16_04.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
+    <ClCompile Include="aula16_05.cpp">
+      <Filter>Arquivos de Origem\Aula</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

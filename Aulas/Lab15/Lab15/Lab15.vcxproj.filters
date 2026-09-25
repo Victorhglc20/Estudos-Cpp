@@ -42,5 +42,32 @@
     <ClCompile Include="BomExemplo.cpp">
       <Filter>Arquivos de Origem\Aula</Filter>
     </ClCompile>
+    <ClCompile Include="exe03.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe04.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe05.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe06.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe07.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="teoricas.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe08.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe09.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="exe10.cpp">
+      <Filter>Arquivos de Origem\Exercicios</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
