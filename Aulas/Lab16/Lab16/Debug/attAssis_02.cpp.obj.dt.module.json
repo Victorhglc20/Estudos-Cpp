@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\attAssis_02.obj",
+            "outputs": [
+                "Debug\\attAssis_02.cpp.obj.dt.module.json",
+                "Debug\\attAssis_02.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

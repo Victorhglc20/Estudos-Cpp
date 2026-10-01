@@ -139,12 +139,21 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="attAssis.cpp" />
+    <ClCompile Include="attAssis_01.cpp" />
+    <ClCompile Include="attAssis_02.cpp" />
     <ClCompile Include="aula16_05.cpp" />
-    <ClCompile Include="aula16_2.cpp" />
-    <ClCompile Include="aula16.cpp" />
+    <ClCompile Include="aula16_02.cpp" />
+    <ClCompile Include="aula16_01.cpp" />
     <ClCompile Include="aula16_03.cpp" />
     <ClCompile Include="aula16_04.cpp" />
+    <ClCompile Include="exe01.cpp" />
+    <ClCompile Include="exe02.cpp" />
+    <ClCompile Include="exe03.cpp" />
+    <ClCompile Include="exe04.cpp" />
+    <ClCompile Include="exe05.cpp" />
+    <ClCompile Include="exe06.cpp" />
+    <ClCompile Include="exe07.cpp" />
+    <ClCompile Include="exe08.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

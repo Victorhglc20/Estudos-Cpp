@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\aula16_05.obj",
+            "outputs": [
+                "Debug\\aula16_05.cpp.obj.dt.module.json",
+                "Debug\\aula16_05.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
